@@ -1,0 +1,145 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html>
+<head>
+
+<link href="stylesheet.css" type="text/css" rel="stylesheet" />
+<title>Antigravity Yoga - About Page</title>
+
+<script language="javascript" type="text/javascript">
+<!--
+function popitup(url) {
+	newwindow=window.open(url,'name','height=300,width=450');
+	if (window.focus) {newwindow.focus()}
+	return false;
+}
+
+// -->
+</script>
+
+</head>
+
+<body>
+
+<div class="wrap">
+	<div class="wrapLogoNav">
+		<div class="logo">
+			<img src="ImagesP/logo.png" width="550" height="100" alt="Antigravity Yoga logo"/>
+		</div><!--end of logo-->
+		<div class="nav">
+            	<ul>
+                <li><a href="about.html">ABOUT</a></li>
+                    <li><a href="team.html">TEAM</a></li>
+                    <li><a href="classe.html">CLASSES</a></li>
+                    <li><a href="pricing.html">PRICING</a></li>
+                    <li><a href="contact.html">CONTACT</a></li>
+                </ul>
+		</div><!-- end of nav -->
+	</div><!--end of wrapLogoNav-->
+
+<p></p>
+<center><table><tr><td>	
+<div class="mainP">
+			<h3>Yoga Classes</h3>
+			<p><a href="ImagesP/quotes1.jpg" onclick="return popitup('ImagesP/quotes1.jpg')">
+	<img src="ImagesP/quotes1.jpg" width="240" height="120" ></a>
+	</p>
+		</div><!--end of mainP-->
+<div class="mainP">
+			<h3>Unlimited Yoga</h3>
+			<p><a href="ImagesP/quotes2.jpg" onclick="return popitup('ImagesP/quotes2.jpg')">
+	<img src="ImagesP/quotes2.jpg" width="240" height="120" ></a>
+	</p>
+		</div><!--end of mainP-->
+<div class="mainP">
+			<h3>Annual Membership</h3>
+			<p><a href="ImagesP/quotes3.jpg" onclick="return popitup('ImagesP/quotes3.jpg')">
+	<img src="ImagesP/quotes3.jpg" width="240" height="120" ></a></p>
+	
+	</div><!--end of mainP-->	
+
+<h4>Class Information</h4>
+
+<div>
+<div style="float:left; padding-right:6px;"><a class="Table" href="Table.html"></a></div>
+<div style="float:left; padding-left:6px"><a class="FAQ" href="FAQ.html"></a></div>
+<div style="float:left; padding-left:6px"><a class="Pricing" href="Pricing.html"></a></div>
+<div style="float:left; padding-left:6px"><a class="Lists" href="Lists.html"></a></div>
+</div>
+</td></tr></table>
+
+<hr></hr> 
+	
+<table style="width:1000px; height:380; border-width:2px; border-style:solid; border-color: #abaaaa; font-size:14px; " >
+<tr  style="font-size:14px; color: white; background-color:#333232;" >
+<td style="padding-left:10px"> Time </td>
+<td>  Monday</td>
+<td>  Tuesday</td>
+<td>  Wednesday</td>
+<td>  Thursday</td>
+<td>  Friday</td>
+<td>  Saturday</td>
+</tr>
+
+<tr>
+<td>10:00 - 11.15am</td>
+<td>Flow Yoga</td>
+<td>Flow Yoga</td>
+<td>Flow Yoga</td>
+<td>Flow Yoga</td>
+<td>Flow Yoga</td>
+<td>Flow Yoga</td>
+</tr>
+	
+<tr style="background-color:#d7d7d7;">
+<td>11:30 - 12.45am</td>
+<td>Baby massage</td>
+<td>Mum & Baby Yoga</td>
+<td>Beginners</td>
+<td>Flow Yoga</td>
+<td>Flow Yoga</td>
+<td>Mum & Baby Yoga</td>
+</tr>
+	
+	<tr>
+<td>1.00pm - 1.45pm</td>
+<td>Hatha Yoga</td>
+<td>Gentle Yoga</td>
+<td>Flow Yoga</td>
+<td>Yoga for the over 60s</td>
+<td>Beginners</td>
+<td>Hatha Yoga</td>
+</tr>
+
+<tr style="background-color:#d7d7d7;">
+<td>6.15pm - 7.30pm</td>
+<td>Gentle Yoga</td>
+<td>Hatha Yoga</td>
+<td></td>
+<td>Iyengar Yoga</td>
+<td></td>
+<td>Vinyasa Flow</td>
+</tr>
+
+<tr>
+<td>7.30pm - 9.00pm</td>
+<td>Gentle Yoga</td>
+<td></td>
+<td>Flow Yoga</td>
+<td>Flow Yoga</td>
+<td>Flow Yoga</td>
+<td>Flow Yoga</td>
+</tr>
+</table>
+<a href="ImagesP/TimeTable.jpg"  onclick="return popitup('ImagesP/TimeTable.jpg')">Show a  Time Table</a>
+</p>
+<img src="ImagesP/jogabelow1.jpg" width="1000" height="170;"/>
+</div></center>
+
+	
+</div><!--end of wrap-->
+
+</body>
+</html>
+
+
